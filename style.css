@@ -1,0 +1,11 @@
+*{font-family: Montserrat;}
+.hero{padding:100px 0px 100px 0px;text-align: center;back}
+.hero .col-sm-12 h1{font-size:65px; text-align: center;}
+.herobtn{padding: 15px 50px 15px 50px!important;background: blue!important;text-decoration: none;color:#fff;
+    text-align:center;margin-top:20px;display: inline-block;font-size:18px;}
+.herobtn:hover{color:#fff;}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+}

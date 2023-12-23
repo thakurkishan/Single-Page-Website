@@ -1,2 +1,2 @@
 # Single-Page-Website
-One page website (single page website)
+One page website (single page websdsite)
