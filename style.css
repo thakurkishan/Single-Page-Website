@@ -1,8 +1,10 @@
 *{font-family: Montserrat;}
-.hero{padding:100px 0px 100px 0px;text-align: center;back}
-.hero .col-sm-12 h1{font-size:65px; text-align: center;}
-.herobtn{padding: 15px 50px 15px 50px!important;background: blue!important;text-decoration: none;color:#fff;
-    text-align:center;margin-top:20px;display: inline-block;font-size:18px;}
+.hero{padding:130px 0px 150px 0px;text-align: center;background-image: url(banner1-1.jpg);background-size: cover;}
+.hero .col-sm-12 h1{font-size:65px; text-align: center;color:#fff;font-weight: 700;}
+.hero .col-sm-12 h2{font-size:30px; text-align: center;color:#fff;font-weight: 600;}
+.hero .col-sm-12 p{font-size:20px; text-align: center;color:#fff;}
+.herobtn{padding: 15px 50px 15px 50px!important;background: #24CDD5 !important;text-decoration: none;color:#fff;
+    text-align:center;margin-top:20px;display: inline-block;font-size:20px;font-weight: 600;}
 .herobtn:hover{color:#fff;}
 .navbar-collapse {
     flex-basis: 100%;
